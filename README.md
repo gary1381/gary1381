@@ -6,7 +6,7 @@ I build machine-learning systems and test them the way a scientist would: fixed 
 
 - **Industry:** Senior Data Scientist at Bluestem Brands (Fingerhut) — credit, payment and customer-behavior models on data for millions of customers.
 - **Now:** independent research on retrieval and memory for AI agents, and on making AI agents' data analysis verifiable.
-- **Before:** computational chemistry and machine learning for catalysts and materials (Iowa State, Peking University).
+- **Before:** experimental and computational chemistry (Iowa State, Peking University): synthesizing and testing materials for energy, environmental and catalytic uses, and studying them with computational chemistry, machine learning and data analysis.
 
 ### Selected work
 
