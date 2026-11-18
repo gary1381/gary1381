@@ -15,6 +15,7 @@ I build machine-learning systems and test them the way a scientist would: fixed 
 | [Agent Memory (pm1)](https://github.com/gary1381/portfolio/blob/main/projects/agent-memory-pm1.md) | Agent memory with LLM-free ingestion. Within about 1 point of Mem0 on LoCoMo (89.4% vs 90.6%) with 0 LLM calls at ingestion vs 6,453 for Mem0. |
 | [DS Agent Harness](https://github.com/gary1381/portfolio/blob/main/projects/ds-agent-harness.md) | A verification layer for AI agents doing data science, tested in ~4,100 pre-registered real-agent runs. |
 | [Local PDF Toolkit](https://github.com/gary1381/portfolio/blob/main/projects/local-pdf-toolkit.md) | Local PDF editor plus MCP/REST tools for AI agents; agent-ready Markdown level with Docling at 2.4× the speed; 13/13 clean in a redaction leak test. |
+| [rankai](https://github.com/gary1381/portfolio/blob/main/projects/rankai.md) | Bilingual job search engine over 15 public sources (82,169 postings); reranker-only ordering beat the hand-tuned stack on new held-out queries (nDCG@10 0.785 vs 0.654, Holm p = 0.0009). |
 | [MemPinyin](https://github.com/gary1381/portfolio/blob/main/projects/mempinyin.md) | BERT reranking for a Chinese input method: top-1 accuracy 72.8% → 83.9% (p = 4.6e-8). |
 
 More: [full portfolio](https://github.com/gary1381/portfolio) · [LinkedIn](https://www.linkedin.com/in/garycxiao/) · [Google Scholar](https://scholar.google.com/citations?user=85iI4ZQAAAAJ)
